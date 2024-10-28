@@ -11,10 +11,9 @@ export const Bio = {
   github: "https://github.com/anmoldotkr",
   resume:
     "https://drive.google.com/drive/u/1/folders/1QyMCMmGtwBcQH23_3w2JEZr02-OnxhWs",
-  linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  twitter: "https://twitter.com/RishavChanda",
-  insta: "https://www.instagram.com/rishav_chanda/",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
+  linkedin: "https://www.linkedin.com/in/anmol-kumar-3b1323321",
+  insta: "https://www.instagram.com/anmolkumar__22/",
+  facebook: "https://www.instagram.com/anmolkumar__22/",
 };
 
 export const skills = [

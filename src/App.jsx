@@ -8,6 +8,8 @@ import Experience from "./components/section/Experience"
 import Education from "./components/section/Education"
 import StarCanvas from "./components/canvas/Star"
 import Project from "./components/section/Project"
+import Contact from "./components/section/Contact"
+import Footer from "./components/section/Footer"
 const Body = styled.div`
   background-color: ${({theme})=> theme.bg};
   width: 100%;
@@ -45,10 +47,12 @@ function App() {
             <Skills/>
             <Experience/>
           </Wrapper>
+          <Project/>
           <Wrapper>
             <Education/>
           </Wrapper>
-          <Project/>
+          <Contact/>
+          <Footer/>
         </div>
       </Body>
     </BrowserRouter>
